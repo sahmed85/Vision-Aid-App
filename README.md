@@ -1,7 +1,7 @@
 # Vision-Aid-App
 Implement reading assistance for images into a mobile App.
 
-Yes, the Kivy app you've developed can run on mobile devices, including Android and iOS. Kivy is specifically designed to create cross-platform applications, and the code you've written is suitable for both desktop and mobile environments. Here’s how you can prepare your app for mobile deployment:
+Kivy is specifically designed to create cross-platform applications, and the code you've written is suitable for both desktop and mobile environments. Here’s how you can prepare your app for mobile deployment:
 
 ### 1. **Packaging for Android**
 To package your Kivy app for Android, you can use **Buildozer**, which is a tool that automates the process of packaging Kivy applications. Here’s a brief overview of the steps:
