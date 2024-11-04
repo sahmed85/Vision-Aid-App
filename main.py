@@ -181,6 +181,5 @@ class MyApp(App):
 
     # ADD HERE - Function that outputs sound to speaker
 
-
 if __name__ == "__main__":
     MyApp().run()
