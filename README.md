@@ -9,7 +9,7 @@ Install everything from requirments.txt file. ```pip install -r requirements.txt
 
 Then run the app:
 
-```python vizaid.apy```
+```python vizaid.py```
 
 ### 2. **Packaging for Android**
 To package your Kivy app for Android, you can use **Buildozer**, which is a tool that automates the process of packaging Kivy applications. Here’s a brief overview of the steps:
