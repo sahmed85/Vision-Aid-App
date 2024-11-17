@@ -3,6 +3,8 @@ Implement reading assistance for images into a mobile App.
 
 Kivy is specifically designed to create cross-platform applications, and the code you've written is suitable for both desktop and mobile environments. Here’s how you can prepare your app for mobile deployment:
 
+![Vision Aid App Architecture](Vision%20Aid%20App%20Architecture.jpg "Vision Aid App Architecture")
+
 ### 1. **Running on local machine*
 
 Install everything from requirments.txt file. ```pip install -r requirements.txt```
